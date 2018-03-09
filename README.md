@@ -7,4 +7,5 @@ Paragraph body
 ## Change on example branch
 Ch-ch-ch-ch-CHANGES
 
-
+## Purpose
+Adding some text with which to conflict
